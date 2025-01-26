@@ -11,7 +11,7 @@ I´m a telematics engineer. I´ve been designing and managing IT projects for ei
 - ⚙️   GitHub
 
 🤝🏻  You can find me on...
-[Linkedin](linkedin.com/in/juan-carlos-ruiz-navarro-5ab940aa)
+[Linkedin](https://www.linkedin.com/in/juan-carlos-ruiz-navarro-5ab940aa)
 <!--
 **juanka94/juanka94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
